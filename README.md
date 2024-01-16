@@ -13,7 +13,7 @@ Sarthak's Weather App
 
 bash
 Copy code
-git clone https://github.com/sarthak/weather-app.git
+git clone https://github.com/SarthakN303/weather-App.git
 Installation:
 
 bash
